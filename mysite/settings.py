@@ -25,7 +25,7 @@ SECRET_KEY = '1si1(nozvwm6kc(=byd^+d+50nv12)rwa9d8e!+!!87upop05k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["grafla.pythonanywhere.com"]
 
 
 # Application definition
